@@ -1,0 +1,18 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+header{
+  padding: 22px 0 14px 0;
+  .menu-holder{
+    a{
+      display: inline-block;
+      padding: 26px 0 33px 0;
+    }
+  }
+}
+.banner{
+  height: 700px;
+  background: url("../images/banner.jpg") no-repeat;
+  background-size: contain;
+
+}d
